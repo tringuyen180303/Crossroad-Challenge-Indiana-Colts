@@ -7,6 +7,7 @@ The purpose of this datathon is find out the correlation between the dataset and
 ---
 # We were 2nd runner up for CCAC. First competition as freshmen! It was such an experience!
 
---- Contributors
+--- 
+# Contributors
 
 Gautam Hari, Ishan Dhawan, Sparsh Nair
